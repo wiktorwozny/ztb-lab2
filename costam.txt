@@ -1,1 +1,2 @@
 jakis tekst co bedzie na branchu main
+a tutaj dodam to przez pr!
